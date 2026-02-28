@@ -53,6 +53,6 @@ Based on the analysis, here are a few actionable recommendations:
 
 ## Contact
 
-* **Mobile :** +91 6303337487
-* **Email :** [kambamsanthosh@gmail.com](mailto:kambamsanthosh@gmail.com)
-* **LinkedIn :** [https://www.linkedin.com/in/santhosh-kambam/](https://www.linkedin.com/in/santhosh-kambam/)
+* **Mobile :** +91 9630164150
+* **Email :** [shubhamhedau266@gmail.com](mail-to:shubhamhedau266@gmail.com)
+* **LinkedIn :** [https://www.linkedin.com/in/shubham-hedau-b36b922b7?utm_source=share_via&utm_content=profile&utm_medium=member_android](https://www.linkedin.com/in/shubham-hedau-b36b922b7?utm_source=share_via&utm_content=profile&utm_medium=member_android)
