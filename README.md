@@ -49,8 +49,7 @@ Based on the analysis, here are a few actionable recommendations:
 * [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiN2I1ZGQxNmQtYTNhMC00NmJhLTg3MzAtOTViNDNiN2I3YmJmIiwidCI6ImU4ZTBjZWEwLWY3MzEtNGY2My05YWViLWE3YjYzZDBmMjZkOSJ9) : The Power BI dashboard file.
 * [EDA - Python file](https://github.com/Santhosh-Kambam/Portfolio/blob/main/Power%20BI%20-%20Projects/HR%20Analysis%20-%20Emp/Emp-hr.ipynb) : A Python Jupyter Notebook containing the data cleaning and analysis code.
 
----
-
+--------
 ## Contact
 
 * **Mobile :** +91 9630164150
